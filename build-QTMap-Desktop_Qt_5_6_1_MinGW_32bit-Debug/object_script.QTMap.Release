@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mw1.o
+./release\icon.o
+./release\rpgobj.o
+./release\player.o
+./release\world.o
+./release\monster.o
+./release\menuwindow.o
+./release\moc_mw1.o
+./release\moc_menuwindow.o
+);

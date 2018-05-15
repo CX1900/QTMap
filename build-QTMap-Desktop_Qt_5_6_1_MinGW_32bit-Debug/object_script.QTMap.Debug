@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mw1.o
+./debug\icon.o
+./debug\rpgobj.o
+./debug\player.o
+./debug\world.o
+./debug\monster.o
+./debug\menuwindow.o
+./debug\moc_mw1.o
+./debug\moc_menuwindow.o
+);
